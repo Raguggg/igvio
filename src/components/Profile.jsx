@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom";
 import { useState } from "react";
 import "./Styles/profile.css";
 import LoadingAnimation from "./LoadingAnimation";
