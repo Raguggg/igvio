@@ -1,6 +1,6 @@
 import NavigationMenu from "./NavigationMenu";
 
-import { useState } from "react";
+import  React, { useState} from "react";
 import styled from "styled-components";
 const Header = () => {
     const [isOpen, setIsOpen] = useState(false);

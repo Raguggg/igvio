@@ -1,3 +1,4 @@
+import  React from "react";
 const LoadedIgtv = (props) => {
     let responseObj = props.responseObj;
     

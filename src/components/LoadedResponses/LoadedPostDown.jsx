@@ -1,3 +1,4 @@
+import  React from "react";
 const LoadedPostDown = (props) => {
     let responseObj = props.responseObj;
     const postArray = responseObj.items[0].carousel_media;

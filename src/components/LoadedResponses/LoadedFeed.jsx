@@ -1,3 +1,4 @@
+import  React from "react";
 import Heart from "../../Media/heart.svg";
 import Plays from "../../Media/plays.svg";
 

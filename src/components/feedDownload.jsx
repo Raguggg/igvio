@@ -1,4 +1,4 @@
-import { useState } from "react";
+import  React, { useState} from "react";
 import LoadingAnimation from "./LoadingAnimation";
 import SearchForm from "./Header/SearchForm";
 import "./Styles/feed.css";

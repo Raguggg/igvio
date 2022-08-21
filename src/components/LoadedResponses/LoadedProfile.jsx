@@ -1,3 +1,4 @@
+import  React from "react";
 const LoadedProfile = (props) => {
     const responseObj = props.responseObj;
     const responseError = responseObj.error_code;

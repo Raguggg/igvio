@@ -1,6 +1,4 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { useState } from "react";
+import  React, { useState} from "react";
 import "./Styles/profile.css";
 import LoadingAnimation from "./LoadingAnimation";
 import SearchForm from "./Header/SearchForm";

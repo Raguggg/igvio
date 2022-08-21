@@ -1,4 +1,4 @@
-
+import  React from "react";
 import './Styles/loadingAnimation.css';
 const LoadingAnimation = () => {
 

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import  React, { useState} from "react";
 import "./Styles/reel.css";
 import styled from "styled-components";
 import LoadingAnimation from "./LoadingAnimation";
